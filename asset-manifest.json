@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CssBootcamp/static/css/main.bf0668df.css",
+    "main.js": "/CssBootcamp/static/js/main.514f7aad.js",
+    "static/media/gif.jhin.gif": "/CssBootcamp/static/media/gif.jhin.c1304bfd985bf64a7094.gif",
+    "static/media/test.jhin.gif": "/CssBootcamp/static/media/test.jhin.be3b70dd7d13ea82edfb.gif",
+    "static/media/gif3.gif": "/CssBootcamp/static/media/gif3.fb1474988ecbf5a79911.gif",
+    "static/media/AI.Testo.png": "/CssBootcamp/static/media/AI.Testo.5abf0887fbe8b29bfc21.png",
+    "static/media/Logo2.png": "/CssBootcamp/static/media/Logo2.76b4c95c432029f2d4d1.png",
+    "static/media/9RLNDZgcRdSgn_lsb8iv9A.webp": "/CssBootcamp/static/media/9RLNDZgcRdSgn_lsb8iv9A.79138b3d881ecbd91106.webp",
+    "static/media/23.jpg": "/CssBootcamp/static/media/23.6caf3a46fd1e614eadca.jpg",
+    "static/media/jhin 3.jpg": "/CssBootcamp/static/media/jhin 3.5dc02465f3f9b466bec4.jpg",
+    "static/media/maxresdefault.jpg": "/CssBootcamp/static/media/maxresdefault.d975c9436e87777b0500.jpg",
+    "static/media/jhin 2.jpg": "/CssBootcamp/static/media/jhin 2.149fa48637b475b0ff29.jpg",
+    "static/media/Profile_-_Vanellope_Von_schweetz.jpg": "/CssBootcamp/static/media/Profile_-_Vanellope_Von_schweetz.2b2dbe947df062c890cb.jpg",
+    "static/media/jhin6.jpg": "/CssBootcamp/static/media/jhin6.7f728bf9e948beb9671a.jpg",
+    "static/media/Wake-Up-Kowalski-penguins-of-madagascar-14228700-401-303.jpg": "/CssBootcamp/static/media/Wake-Up-Kowalski-penguins-of-madagascar-14228700-401-303.bb15374819c4142faf23.jpg",
+    "static/media/Veno.jpg": "/CssBootcamp/static/media/Veno.d6b9618e10126a9b830a.jpg",
+    "static/media/Logo1.png": "/CssBootcamp/static/media/Logo1.80d29eefb441b6afa0b1.png",
+    "static/media/jhin 4.jpg": "/CssBootcamp/static/media/jhin 4.e118db591d71a853f55c.jpg",
+    "static/media/jhin5.jpg": "/CssBootcamp/static/media/jhin5.1c9c49706d10855fb12c.jpg",
+    "index.html": "/CssBootcamp/index.html",
+    "main.bf0668df.css.map": "/CssBootcamp/static/css/main.bf0668df.css.map",
+    "main.514f7aad.js.map": "/CssBootcamp/static/js/main.514f7aad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf0668df.css",
+    "static/js/main.514f7aad.js"
+  ]
+}
